@@ -1,0 +1,28 @@
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  display: block;
+  margin-bottom: 12px;
+  padding: 8px;
+  width: 100%;
+}
+
+button {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+.status-PENDING {
+  color: orange;
+}
+
+.status-APPROVED {
+  color: blue;
+}
+
+.status-PAID {
+  color: green;
+}
